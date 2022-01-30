@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sherif-enein
+- 👋 Hi, I’m @Sherif AbouElEnein
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning R and Tableau
 - 💞️ I’m looking to collaborate on R language
