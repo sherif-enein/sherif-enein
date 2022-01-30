@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sherif AbouElEnein
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, I've finished Python, Pandas, Numpy course by Udacity.
 - 🌱 I’m currently learning R and Tableau
 - 💞️ I’m looking to collaborate on R language
 - 📫 How to reach me eng_sherif_said@hotmail.com
